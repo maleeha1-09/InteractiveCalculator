@@ -62,7 +62,7 @@ Give it a name and optional notes.
 
 It will appear in the "Saved Calculations" list on the right.
 
-Use Past Calculations:
+# Use Past Calculations:
 
 Click the blue arrow next to a saved item to load it.
 
@@ -70,14 +70,14 @@ Drag a saved item from the right panel and drop it onto the middle display.
 
 Remove Saved Items: Click the red trash can icon next to a saved calculation.
 
-Things to Note
+# Things to Note
 No Permanent Saves: Your saved calculations are gone when you close the browser tab.
 
 Simple Math Logic: It calculates from left to right and doesn't handle complex math rules (like always doing multiplication before addition) or parentheses.
 
 Basic Functions: Only basic math operations are included.
 
-Contribute
+# Contribute
 Got ideas? Want to help? Feel free to:
 
 Fork this project.
@@ -86,10 +86,4 @@ Make your changes.
 
 Submit a Pull Request.
 
-License
-This project is open-source under the MIT License.
 
-Contact
-Your Name - your.email@example.com
-
-Project Link: https://github.com/your-username/drag-drop-calculator (Remember to update this link!)
